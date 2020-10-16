@@ -1,8 +1,5 @@
 ### Hi there, I'm Dasith Vidanage👋
 
-[![Instagram Follow ](https://www.instagram.com/wakeupdaz/)
-
-
 ## I'm Just a student ye, 
 
 
