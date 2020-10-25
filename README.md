@@ -40,6 +40,7 @@
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <br>
     <img
       align="center"
       height="165"
