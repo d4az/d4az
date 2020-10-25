@@ -36,7 +36,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4az&layout=compact&exclude_repo=PingMeRN&title_color=ffffff&icon_color=bb2acf&text_color=bc96e6&bg_color=151515"
+      src=" https://github-readme-stats.vercel.app/api?username=d4az&theme=dark&show_icons=true"
+        
+         
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
