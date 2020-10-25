@@ -44,7 +44,7 @@
     <br>
     <img
       align="right"
-      height="165"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=d4az&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000"
     />
   </a>
