@@ -43,8 +43,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <br>
     <img
-         float="right"
-      align="right"
+      align="left"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=d4az&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000"
     />
