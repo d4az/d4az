@@ -43,7 +43,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=prineth&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=280137&icon_color=280137&text_color=ffffff&bg_color=000000"
+      src="https://github-readme-stats.vercel.app/api?username=prineth&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000"
     />
   </a>
 </p>
