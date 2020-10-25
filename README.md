@@ -5,13 +5,30 @@
 
 - 🔭 I’m currently studying on: NSBM university.
 - 🌱 I’m currently learning : software engineering and hacking.
-- 👯 I’m looking to collaborate on :well python projects, webdevelopment,bug bounty programs
-- 🤔 I’m looking for help with : well everything i can :D
-- 💬 Ask me about Pythoon, Web-development , hacking.
+- 👯 I’m looking to collaborate on :well python projects, web development,bug bounty programs
+- 🤔 I’m looking for help with : I'd Like to get some help with ethical-hacking.
+- 💬 Ask me about Python, Web-development , hacking.
 - 📫 How to reach me: Instagram-@wakeupdaz
 - 😄 Pronouns:he/his
 - ⚡ Fun fact:coffee is my magic drink
 
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4az&layout=compact&exclude_repo=PingMeRN&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <br>
+    <img
+      align="left"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=d4az&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000"
+    />
+  </a>
+</p>
 
 ### Things I'm Good At :
 <br>
@@ -32,19 +49,3 @@
 <br>
 <br>
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4az&layout=compact&exclude_repo=PingMeRN&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <br>
-    <img
-      align="left"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=d4az&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000"
-    />
-  </a>
-</p>
