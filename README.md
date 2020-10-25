@@ -30,4 +30,4 @@
 
 
 
-(https://github-readme-stats.vercel.app/api?username=d4az)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=d4az)](https://github.com/d4az/github-readme-stats)
