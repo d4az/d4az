@@ -1,8 +1,22 @@
 ### Hi there, I'm Dasith Vidanage 👋
 
 
+- 🔭 I’m currently studying on: NSBM university.
+- 🌱 I’m currently learning : software engineering and hacking.
+- 👯 I’m looking to collaborate on :well python projects, web development,bug bounty programs
+- 🤔 I’m looking for help with : I'd Like to get some help with ethical-hacking.
+- 💬 Ask me about Python, Web-development , hacking.
+- 📫 How to reach me: Instagram-@wakeupdaz
+- 😄 Pronouns:he/his
+- ⚡ Fun fact:coffee is my magic drink
+
+
+
+
 ![dasith github stats](https://github-readme-stats.vercel.app/api?username=d4az&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=d4az&layout=compact&exclude_repo=PingMeRN&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
+
+
 
 
 
