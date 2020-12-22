@@ -17,9 +17,8 @@
 
 
 
-![daaz's github stats](https://github-readme-stats.vercel.app/api?username=d4az&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4az&langs_count=8)](https://github.com/d4az/github-readme-stats)
-
+![dasith github stats](https://github-readme-stats.vercel.app/api?username=d4az&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
+![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=d4az&layout=compact&exclude_repo=PingMeRN&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
 
 
 ### Skills : <br/>
