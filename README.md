@@ -19,10 +19,8 @@
 
 
 ![dasith github stats](https://github-readme-stats.vercel.app/api?username=d4az&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4az&langs_count=8)](https://github.com/d4az/github-readme-stats)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d4az)](https://github.com/d4az/github-readme-stats)
 
 
 
