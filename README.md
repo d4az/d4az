@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4az&langs_count=8)](https://github.com/d4az/github-readme-stats)
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=d4az&show_icons=true)
 
 ### Skills : <br/>
 
