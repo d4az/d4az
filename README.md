@@ -14,9 +14,6 @@
 
 * Studying at [University of Plymouth](http://bit.ly/CreditasGist) about [Cyber Security](https://www.plymouth.ac.uk/courses/undergraduate/bsc-cyber-security)
 * Some bookmarks and references: [awesome list](http://github.com/adamatti/awesome)
-* GitHub [
-[profile summary](https://profile-summary-for-github.com/user/d4az) 
-
-]
+* [profile summary](https://profile-summary-for-github.com/user/d4az) 
 
 
