@@ -14,4 +14,4 @@
 
 * Studying at [University of Plymouth](http://bit.ly/CreditasGist) about [Cyber Security](https://www.plymouth.ac.uk/courses/undergraduate/bsc-cyber-security)
 * GitHub [[profile summary](https://profile-summary-for-github.com/user/d4az)]
-* Project that I am most proud of [[Hack-Gmail](https://github.com/d4az/hack-gmail)]
+* Send me a Email [dasithvidanage000@gmail.com](mailto:dasithvidanage000@gmail.com)
