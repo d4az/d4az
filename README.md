@@ -8,3 +8,15 @@
     <a href="https://instagram.com/wakeupdaz/"> <img src="https://img.shields.io/badge/-wakeupdaaz-%238a3ab9?style=social&logo=instagram"> </a>
     <a href="https://www.youtube.com/channel/UCcN0nUQ2SEg3viwlXvsixMw"> <img src="https://img.shields.io/badge/-its%20Dasith-%238a3ab9?style=social&logo=youtube"> </a>
 </p>
+
+
+#### About me 
+
+* Studying at [University of Plymouth](http://bit.ly/CreditasGist) about [Cyber Security](https://www.plymouth.ac.uk/courses/undergraduate/bsc-cyber-security)
+* Some bookmarks and references: [awesome list](http://github.com/adamatti/awesome)
+* GitHub [
+[profile summary](https://profile-summary-for-github.com/user/d4az) 
+
+]
+
+
