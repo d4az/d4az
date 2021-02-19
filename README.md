@@ -13,7 +13,7 @@
 #### About me 
 
 * Studying at [University of Plymouth](http://bit.ly/CreditasGist) about [Cyber Security](https://www.plymouth.ac.uk/courses/undergraduate/bsc-cyber-security)
-* Some bookmarks and references: [awesome list](http://github.com/adamatti/awesome)
 * [profile summary](https://profile-summary-for-github.com/user/d4az) 
+* Fun Fact coffee is my Magic Drink
 
 
