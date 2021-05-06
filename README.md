@@ -18,4 +18,4 @@
 * Send me a Email [dasithsv@gmail.com](mailto:dasithsv@gmail.com)
 
 
-https://tryhackme-badges.s3.amazonaws.com/daaz.png
+<img src="https://tryhackme-badges.s3.amazonaws.com/daaz.png">
