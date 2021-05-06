@@ -17,4 +17,4 @@
 * GitHub [ [profile summary](https://profile-summary-for-github.com/user/d4az) | [githubmemory](https://githubmemory.com/@d4az) ]
 * Send me a Email [dasithsv@gmail.com](mailto:dasithsv@gmail.com)
 
-<script src="https://tryhackme.com/badge/186066"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/daaz.png" alt="TryHackMe">
